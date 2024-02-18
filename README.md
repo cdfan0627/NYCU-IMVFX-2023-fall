@@ -1,6 +1,6 @@
 ﻿# NYCU-IMVFX-2023-fall
 HWs of Image Manipulation Techniques and Visual Effects 2023 Fall NYCU
-## HW1 KNN_Matting
+## HW1 KNN Matting
 1.Find KNN and compute the affinity matrix A accordingly.  
 2.Solve for the linear system to get the alpha matte.  
 3.Attach your result onto another background.  
